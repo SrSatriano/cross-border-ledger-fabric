@@ -2,14 +2,15 @@
 
 # Ledger privado transfronteiriço (Hyperledger Fabric)
 
-**Ledger privado transfronteiriço (Hyperledger Fabric)**
-
 <p>
   <a href="https://github.com/SrSatriano/cross-border-ledger-fabric"><img src="https://img.shields.io/badge/GitHub-cross-border-ledger-fabric-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://srsatriano.github.io/portfolio-matheus-satriano/"><img src="https://img.shields.io/badge/Portfólio-web-0891b2?style=for-the-badge" alt="Portfólio" /></a>
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/versão-1.0.0-0ea5e9?style=flat-square" alt="versão" />
+  <img src="https://img.shields.io/badge/Tier-4-8b5cf6?style=flat-square" alt="tier" />
+  <img src="https://img.shields.io/badge/demo-em_evolutivo-f59e0b?style=flat-square" alt="demo" />
   <img src="https://img.shields.io/badge/licença-MIT-22c55e?style=flat-square" alt="licença" />
   <img src="https://img.shields.io/badge/idioma-pt--BR-blue?style=flat-square" alt="idioma" />
   <img src="https://img.shields.io/badge/CI-GitHub_Actions-8b5cf6?style=flat-square" alt="ci" />
@@ -175,4 +176,8 @@ Metodologia, hardware de referência e flags de compilação: [docs/ARCHITECTURE
 
 ---
 
-<p align="center">Desenvolvido com foco em clareza e engenharia de produção · <a href="https://github.com/SrSatriano/cross-border-ledger-fabric">Ver no GitHub</a></p>
+<p align="center">
+  <a href="https://srsatriano.github.io/portfolio-matheus-satriano/">Portfólio completo</a> ·
+  <a href="https://github.com/SrSatriano">@SrSatriano</a> ·
+  <a href="https://github.com/SrSatriano/cross-border-ledger-fabric">Este repositório</a>
+</p>
